@@ -1,0 +1,5 @@
+# GitHub Pages には index.html だけを公開する。
+# テスト・仕様書・node_modules などはこのPCにだけ置く。
+/*
+!/index.html
+!/.gitignore
